@@ -1,6 +1,6 @@
 # GITHUB JOBS SEARCH
 
-[GitHub Logo](https://github.com/dhren2019/githubjobs/blob/main/captura.JPG)
+[Ver foto proyecto](https://github.com/dhren2019/githubjobs/blob/main/captura.JPG)
 
 Buscador de trabajos que trabaja con la API de Github.
 
